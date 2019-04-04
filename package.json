@@ -1,0 +1,27 @@
+{
+  "name": "@ruiyun/fastify-eureka",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fasttify",
+    "eureka",
+    "plugin"
+  ],
+  "author": "wen911119@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "eureka-js-client": "^4.4.2",
+    "fastify-plugin": "^1.5.0",
+    "ip": "^1.1.5"
+  },
+  "peerDependencies": {
+    "fastify": "^2.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
