@@ -1,6 +1,6 @@
 {
   "name": "@ruiyun/fastify-eureka",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
   "author": "wen911119@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "eureka-js-client": "^4.4.2",
-    "fastify-plugin": "^1.5.0",
+    "eureka-js-client": "^4.5.0",
+    "fastify-plugin": "^1.6.0",
     "ip": "^1.1.5"
   },
   "peerDependencies": {
